@@ -1,0 +1,15 @@
+{
+  "name": "anuroop-ssh",
+  "version": "0.1.0",
+  "author": "anuroop",
+  "summary": "testing puppet module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/anuroopranghat/puppet-ssh.git",
+  "project_page": "https://github.com/anuroopranghat/puppet-ssh",
+  "issues_url": "https://github.com/anuroopranghat/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
